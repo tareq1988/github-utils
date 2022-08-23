@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Type: Bug",
+        "color": "e11d21"
+    },
+    {
+        "name": "Type: Maintenance",
+        "color": "fbca04"
+    },
+    {
+        "name": "Type: New Feature",
+        "color": "84b6eb"
+    },
+    {
+        "name": "Type: Question",
+        "color": "cc317c"
+    },
+    {
+        "name": "Type: Breaking Change",
+        "color": "aa2608"
+    },
+    {
+        "name": "Priority: Low",
+        "color": "009800"
+    },
+    {
+        "name": "Priority: Medium",
+        "color": "fbca04"
+    },
+    {
+        "name": "Priority: High",
+        "color": "eb6420"
+    },
+    {
+        "name": "Priority: Critical",
+        "color": "e11d21"
+    },
+    {
+        "name": "Status: Blocked",
+        "color": "e11d21"
+    },
+    {
+        "name": "Status: In Progress",
+        "color": "cccccc",
+        "description": "This issue/PR is being worked on"
+    },
+    {
+        "name": "Status: On Hold",
+        "color": "e11d21"
+    },
+    {
+        "name": "Status: Merge Conflict",
+        "description": "To be applied to PR's that have a merge conflict and need updating",
+        "color": "fef2c0"
+    },
+    {
+        "name": "Status: Needs Dev Review",
+        "color": "fbca04",
+        "description": "It requires review from a developer and approval"
+    },
+    {
+        "name": "Status: Change Requested",
+        "description": "To be applied to PR's that have asked for changes by reviewers",
+        "color": "fbca04"
+    },
+    {
+        "name": "Status: Dev Reviewed",
+        "color": "774AAF",
+        "description": "The issue/PR is approved by a developer"
+    },
+    {
+        "name": "Status: Awaiting QA",
+        "description": "To be applied to PR's that are ready for QA",
+        "color": "E99695"
+    },
+    {
+        "name": "Status: Ready to Merge",
+        "description": "This PR is now ready to merge",
+        "color": "0E8A16"
+    },
+    {
+        "name": "QA: In Progress",
+        "description": "To be applied to PR's that are QA testing on progress",
+        "color": "D9E768"
+    },
+    {
+        "name": "QA: Approved",
+        "description": "This PR is approved by the QA team",
+        "color": "02DD33"
+    },
+    {
+        "name": "Needs Design",
+        "description": "Requires help from the design team",
+        "color": "5319e7"
+    },
+    {
+        "name": "DO NOT MERGE",
+        "description": "Do not merge this PR",
+        "color": "d93f0b"
+    },
+    {
+        "name": "Has PR",
+        "description": "This issue has a PR",
+        "color": "008672"
+    }
+]

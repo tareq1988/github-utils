@@ -1,0 +1,7 @@
+{
+    "require": {
+        "knplabs/github-api": "^3.8",
+        "guzzlehttp/guzzle": "^7.4",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
