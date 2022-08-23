@@ -5,7 +5,7 @@ GitHub utilities for team management.
 ## Setup
 
 ```php
-git clone <this-repo> github-utils
+git clone git@github.com:tareq1988/github-utils.git
 cd github-utils
 cp .env.example .env
 composer install
