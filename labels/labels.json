@@ -99,6 +99,16 @@
         "color": "d93f0b"
     },
     {
+        "name": "Deployed to PROD",
+        "description": "Deployed to PRODUCTION",
+        "color": "0f766e"
+    },
+    {
+        "name": "Needs PM Review",
+        "description": "Needs review from PM",
+        "color": "0284c7"
+    },
+    {
         "name": "Has PR",
         "description": "This issue has a PR",
         "color": "008672"
